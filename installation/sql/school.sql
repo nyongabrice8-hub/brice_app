@@ -13953,7 +13953,7 @@ INSERT INTO `settings` (`settings_id`, `type`, `description`) VALUES
 (124, 'tawk_to', ''),
 (125, 'timezone', 'Africa/Maseru'),
 (127, 'voguepay', '----------'),
-(135, 'paystack', 'sk_live_7bae8726a1f18e41f04737a513c6937de74b4f74'),
+(135, 'paystack', 'STRIPE_KEY_HERE'),
 (128, 'zoom_api_key', 'FLDOp-P9RfKt6V-IAXjwcg'),
 (129, 'zoom_api_secret_key', 'Rc3b6gwca4WCH6aHcD5IaO64LWXawcEyvSvj'),
 (138, 'term', '1'),
